@@ -1,0 +1,16 @@
+{
+    "name": "potter/logger-aware",
+    "description": "PHP Logger Aware Implementation",
+    "type": "metapackage",
+    "require": {
+        "php": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
