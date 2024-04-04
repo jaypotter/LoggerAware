@@ -4,11 +4,12 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/logger-aware-interface": "dev-main",
-        "potter/logger-aware-trait": "dev-main"
+        "potter/logger-aware-interface": "v0.0.1-alpha@alpha",
+        "potter/logger-aware-trait": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/logger": "dev-main",
+        "potter/aware": "dev-main",
         "potter/components": "dev-main",
         "potter/framework": "dev-main"
     },
@@ -19,5 +20,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
